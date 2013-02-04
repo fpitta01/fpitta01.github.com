@@ -1,0 +1,53 @@
+/* Headers */
+
+body{
+	/*background-image: url('../images/pinstripe.png');*/
+	font-size: 15px;
+	}
+
+nav {
+	text-align: center;
+	}
+
+
+h1{
+	margin: 0px;
+	text-align: center;
+	}
+	
+h2 {
+	font-size: medium;
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+
+
+ul {
+	margin: 0;
+	padding-left: 20px;
+	margin-bottom: 15px;
+}
+
+p {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	}
+	
+/* Classes */
+
+img.left{
+	
+    }
+
+.italic {
+	font-style: italic;
+	}
+
+.bold {
+	font-weight: bold;
+	}
+	
+.center {
+	text-align: center;
+	}
