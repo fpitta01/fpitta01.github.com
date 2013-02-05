@@ -1,7 +1,4 @@
-/* Headers */
-
 body{
-	/*background-image: url('../images/leather.png');*/
 	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
 	font-size: 18px;
 	}
@@ -48,10 +45,6 @@ p {
 	margin-top: 15px;
 	}
 	
-	
-/* Classes */
-
-
 .italic {
 	font-style: italic;
 	}
